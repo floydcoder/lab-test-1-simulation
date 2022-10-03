@@ -1,0 +1,17 @@
+Objects Literals
+Class and Subclasses
+CallBacks
+Promises
+async await
+Include the use of the following Functions:
+  - map()
+  - filter()
+  - reduce()
+
+Node.js implementation on project
+  - step by step actions
+  - Node as a web service
+    - GET and POST routing
+    - Absolute path VS Arguments
+    - fs module
+    - os Module
